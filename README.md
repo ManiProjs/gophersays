@@ -1,4 +1,5 @@
 # GopherSays
+[![Go Reference](https://pkg.go.dev/badge/github.com/ManiProjs/gophersays.svg)](https://pkg.go.dev/github.com/ManiProjs/gophersays)
 Do you remember gophers? Those very cute mice? There is a Go library featuring them. They talk in that Golang library
 
 ## Installation
